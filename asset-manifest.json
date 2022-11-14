@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/encryptme/static/css/main.a50e9e2b.css",
+    "main.js": "/encryptme/static/js/main.da99af3c.js",
+    "index.html": "/encryptme/index.html",
+    "main.a50e9e2b.css.map": "/encryptme/static/css/main.a50e9e2b.css.map",
+    "main.da99af3c.js.map": "/encryptme/static/js/main.da99af3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a50e9e2b.css",
+    "static/js/main.da99af3c.js"
+  ]
+}
