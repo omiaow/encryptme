@@ -2,7 +2,7 @@ import React from "react"
 import './App.css'
 
 function App() {
-  
+
   const [text, setText] = React.useState("Write here your text to encrypt or decrypt!")
   const [response, setResponse] = React.useState("Encrypted code shows here, click to copy.")
   const loader = <div className="loader"/>
