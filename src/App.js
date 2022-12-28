@@ -7,7 +7,7 @@ function App() {
   const [response, setResponse] = React.useState("Encrypted code shows here, click to copy.")
   const loader = <div className="loader"/>
 
-  const url = "https://three-stage-encryptor.herokuapp.com"
+  const url = "https://strange-school-uniform-goat.cyclic.app/"
   let options = {
     method: "POST",
     headers: {
